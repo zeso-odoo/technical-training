@@ -1,0 +1,8 @@
+<odoo>
+    <record id="good_deal" model="estate.property.tag">
+        <field name="name">Good Deal</field>
+    </record>
+    <record id="dream_house" model="estate.property.tag">
+        <field name="name">Dream House</field>
+    </record>
+</odoo>
